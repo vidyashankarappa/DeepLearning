@@ -1,2 +1,2 @@
 # DeepLearning
-deep Learning related projects with reproducible code that runs on google colab or anaconda Jupyter
+LLM and computer vison models/projects with reproducible code/ipynb files that runs on google colab and anaconda Jupyter
